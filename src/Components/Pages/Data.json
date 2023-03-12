@@ -1,0 +1,167 @@
+[
+    {
+      "name": "John Doe",
+      "fatherName": "Mike Doe",
+      "cnic": "12345-6789012-3",
+      "address": {
+        "house": "12-A",
+        "street": "Main Boulevard",
+        "phase": "VIII"
+      },
+      "securityNumber": "A0001",
+      "isConnected": true,
+      "billProperties": [
+        {
+          "id": "B0001",
+          "amount": 2000,
+          "status": "Paid",
+          "month": "January",
+          "late": false
+        },
+        {
+          "id": "B0002",
+          "amount": 2500,
+          "status": "Not Paid",
+          "month": "February",
+          "late": true
+        },
+        {
+          "id": "B0003",
+          "amount": 2200,
+          "status": "Paid",
+          "month": "March",
+          "late": false
+        }
+      ]
+    },
+    {
+      "name": "Jane Smith",
+      "fatherName": "Peter Smith",
+      "cnic": "12345-6789012-4",
+      "address": {
+        "house": "34-B",
+        "street": "Model Town",
+        "phase": "IV"
+      },
+      "securityNumber": "A0002",
+      "isConnected": true,
+      "billProperties": [
+        {
+          "id": "B0001",
+          "amount": 1200,
+          "status": "Paid",
+          "month": "January",
+          "late": false
+        },
+        {
+          "id": "B0002",
+          "amount": 1300,
+          "status": "Not Paid",
+          "month": "February",
+          "late": true
+        },
+        {
+          "id": "B0003",
+          "amount": 1100,
+          "status": "Not Paid",
+          "month": "March",
+          "late": false
+        }
+      ]
+    },
+    {
+      "name": "David Lee",
+      "fatherName": "James Lee",
+      "cnic": "12345-6789012-5",
+      "address": {
+        "house": "54-C",
+        "street": "Gulberg",
+        "phase": "I"
+      },
+      "securityNumber": "A0003",
+      "isConnected": true,
+      "billProperties": [
+        {
+          "id": "B0001",
+          "amount": 900,
+          "status": "Paid",
+          "month": "January",
+          "late": false
+        },
+        {
+          "id": "B0002",
+          "amount": 800,
+          "status": "Paid",
+          "month": "February",
+          "late": false
+        },
+        {
+          "id": "B0003",
+          "amount": 700,
+          "status": "Not Paid",
+          "month": "March",
+          "late": true
+        }
+      ]
+    },
+    {
+      "name": "Bob Brown",
+      "fatherName": "Tom Brown",
+      "cnic": "90123-4567890-1",
+      "address": {
+        "house": "90-E",
+        "street": "Lake View",
+        "phase": "XII"
+      },
+      "securityNumber": "A0005",
+      "isConnected": false
+    },
+    {
+      "name": "Sara Williams",
+      "fatherName": "Bill Williams",
+      "cnic": "23456-7890123-4",
+      "address": {
+        "house": "12-F",
+        "street": "Green Lane",
+        "phase": "XIII"
+      },
+      "securityNumber": "A0006",
+      "isConnected": false
+    },
+    {
+      "name": "Mark Davis",
+      "fatherName": "Dave Davis",
+      "cnic": "45678-9012345-6",
+      "address": {
+        "house": "34-G",
+        "street": "Blue Avenue",
+        "phase": "XIV"
+      },
+      "securityNumber": "A0007",
+      "isConnected": false
+    },
+    {
+      "name": "Lisa Taylor",
+      "fatherName": "Tim Taylor",
+      "cnic": "67890-1234567-8",
+      "address": {
+        "house": "56-H",
+        "street": "Red Road",
+        "phase": "XV"
+      },
+      "securityNumber": "A0008",
+      "isConnected": false
+    },
+    {
+      "name": "Mike White",
+      "fatherName": "John White",
+      "cnic": "89012-3456789-0",
+      "address": {
+        "house": "78-I",
+        "street": "Orange Lane",
+        "phase": "XVI"
+      },
+      "securityNumber": "A0009",
+      "isConnected": false
+    }
+]
